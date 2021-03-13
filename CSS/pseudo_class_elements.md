@@ -3,3 +3,6 @@
 * :hover - Matches when a user designates an item with a pointing device , holding the mosue pointer over it.
 * :active - Matches when an item is being activated by the user, clicked on.
 * :focus - Matches when an element has focus.
+
+# Follow the below link for more info
+* https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes
